@@ -12,12 +12,6 @@
 
 <h1 align="center">Hey, I'm crumpledflowers 🌸</h1>
 
-<p align="center">
-  💻 tutorial copy-paster, but I read the comments too. <br>
-  🧪 building stuff. breaking stuff. googling everything in between. <br>
-  🚀 shipping code that *usually* works 👀
-</p>
-
 ---
 
 ### 🧰 Tech Stack
