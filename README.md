@@ -86,7 +86,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://x.com/Tnq2PvyWCX4484"><img src="https://img.shields.io/badge/haxurn-1DA1F2?style=for-the-badge&logo=X&logoColor=f9689d&color=000000" alt="Twitter" /></a>
+  <a href="https://x.com/Tnq2PvyWCX4484">
+    <img src="https://img.shields.io/badge/𝕽𝔬𝔰𝔢♱-1DA1F2?style=for-the-badge&logo=X&logoColor=f9689d&color=000000" alt="Twitter" />
+  </a>
 </p>
 
 <br>
