@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/crumpledflowers">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=500&lines=tutorial+copy-paster;arduino+tinkerer;web+dev+in+progress;breaking+things+on+purpose;vibing+with+console.logs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f9689d&center=true&vCenter=true&width=500&lines=tutorial+copy-paster;arduino+tinkerer;web+dev+in+progress;breaking+things+on+purpose;vibing+with+console.logs" alt="Typing SVG" />
   </a>
 </p>
 
