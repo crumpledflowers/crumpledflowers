@@ -37,57 +37,62 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Burp%20Suite-black?logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/-Metasploit-black?logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Wireshark-black?logo=wireshark&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-Bash-black?logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-black?logo=python"/>
-<img src="https://img.shields.io/badge/-Linux-black?logo=linux"/>
-<img src="https://img.shields.io/badge/-Go-black?logo=go"/>
-<img src="https://img.shields.io/badge/-Git-black?logo=git"/>
+<img src="https://img.shields.io/badge/-Burp%20Suite-black?logo=burpsuite&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Metasploit-black?logo=metasploit&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Wireshark-black?logo=wireshark&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Bash-black?logo=gnubash&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Go-black?logo=go&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Git-black?logo=git&logoColor=f9689d"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/-Debian-black?logo=debian"/>
-<img src="https://img.shields.io/badge/-Docker-black?logo=docker"/>
-<img src="https://img.shields.io/badge/-Flutter-black?logo=flutter"/>
-<img src="https://img.shields.io/badge/-C-black?logo=c"/>
-<img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/-Java-black?logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-black?logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS3-black?logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript"/>
+<img src="https://img.shields.io/badge/-Debian-black?logo=debian&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Docker-black?logo=docker&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Flutter-black?logo=flutter&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-C-black?logo=c&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=f9689d"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/-BlackArch-black?logo=archlinux&logoColor=red"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb"/>
-<img src="https://img.shields.io/badge/-ExpressJS-black?logo=express"/>
-<img src="https://img.shields.io/badge/-React-black?logo=react"/>
-<img src="https://img.shields.io/badge/-Parrot%20OS-black?logo=linux&logoColor=green"/>
-<img src="https://img.shields.io/badge/-Node.js-black?logo=node.js"/>
-<img src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu"/>
+<img src="https://img.shields.io/badge/-BlackArch-black?logo=archlinux&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-ExpressJS-black?logo=express&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Parrot%20OS-black?logo=linux&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu&logoColor=f9689d"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/-Kali%20Linux-black?logo=kalilinux&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-VS%20Code-black?logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/-Bugcrowd-black?logo=bugcrowd"/>
-<img src="https://img.shields.io/badge/-HackerOne-black?logo=hackerone"/>
-<img src="https://img.shields.io/badge/-Intigriti-black?logo=intigriti"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-black?logo=kalilinux&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-VS%20Code-black?logo=visualstudiocode&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Bugcrowd-black?logo=bugcrowd&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-HackerOne-black?logo=hackerone&logoColor=f9689d"/>
+<img src="https://img.shields.io/badge/-Intigriti-black?logo=intigriti&logoColor=f9689d"/>
 
 </p>
 
 ---
 
-### 🌐 Where to find me
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjZjk2ODlkIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/UmVhY2ggb3V0/karasha.png" width="200" alt="Reach Out">
+</h2>
 
-- 💬 Ask me about web stuff, bots, or Arduino tinkering  
-- 💻 Discord: `@crumpledflowers`  
-- 📫 Reach me via GitHub Issues or Discussions!
+<p align="center">
+  <a href="https://x.com/Tnq2PvyWCX4484"><img src="https://img.shields.io/badge/haxurn-1DA1F2?style=for-the-badge&logo=X&logoColor=f9689d&color=000000" alt="Twitter" /></a>
+</p>
 
----
+<br>
+<br>
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjRTdDRkFBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png" width="400" alt="Hacking is an art, security is a lifestyle">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjZjk2ODlkIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png" width="400" alt="Hacking is an art, security is a lifestyle">
 </p>
