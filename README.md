@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/crumpledflowers/crumpledflowers/main/banner.png" alt="banner" />
-</p>
+<h1 align="center">Hey, I'm crumpledflowers 🌸</h1>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -9,8 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=500&lines=tutorial+copy-paster;arduino+tinkerer;web+dev+in+progress;breaking+things+on+purpose;vibing+with+console.logs" alt="Typing SVG" />
   </a>
 </p>
-
-<h1 align="center">Hey, I'm crumpledflowers 🌸</h1>
 
 ---
 
